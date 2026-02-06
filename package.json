@@ -1,0 +1,18 @@
+{
+  "name": "remoteshopper-landing",
+  "version": "1.0.0",
+  "description": "Landing page for Remote Shopper - Smart Shopping for Portuguese Regions",
+  "scripts": {
+    "deploy:vercel": "vercel --prod",
+    "deploy:netlify": "netlify deploy --prod --dir=."
+  },
+  "keywords": [
+    "shopping",
+    "portugal",
+    "madeira",
+    "azores",
+    "e-commerce"
+  ],
+  "author": "",
+  "license": "MIT"
+}
